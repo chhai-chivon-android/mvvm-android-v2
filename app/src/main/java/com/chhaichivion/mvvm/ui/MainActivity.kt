@@ -1,7 +1,8 @@
-package com.chhaichivion.mvvm
+package com.chhaichivion.mvvm.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.chhaichivion.mvvm.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
